@@ -153,6 +153,7 @@ header ul{
     top: 70px;
 }
 .mask-group h1{
+    width:571px;
     background: -webkit-linear-gradient(96.46deg, #C87C00 3.72%, #8B3208 31.05%, rgba(83, 32, 15, 0.82) 68.54%, #010420 100%);
     -webkit-background-clip: text;
     background-clip: text;
